@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../php-password/js"
+		},
+		{
+			"path": "../login-system-main/connect"
+		},
+		{
+			"path": "../login-system-main/Mail"
+		}
+	],
+	"settings": {}
+}
